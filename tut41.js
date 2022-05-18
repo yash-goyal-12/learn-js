@@ -26,4 +26,4 @@ console.log(name1());
 
 const greet = (name , ending)=> 'good morning ' + name + ending;
 console.log(greet('yash' , 'bye'));
-
+console.log('yash');
